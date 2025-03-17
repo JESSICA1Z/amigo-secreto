@@ -1,7 +1,7 @@
-#Challengue del Amigo Secreto - Alura Latam
+# Challengue del Amigo Secreto - Alura Latam
 Esta aplicacion web permite a los usuarios realizar un sorteo entre un listado de nombres de amigos
 
-##Funcionamiento
+## Funcionamiento
 1. Escribe el nombre de un amigo
 2. Da clic en el boton añadir
 3. El nombre ingresado se mostrara en una lista en la parte inferior del input
